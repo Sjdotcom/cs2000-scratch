@@ -1,3 +1,5 @@
 use context url-file("https://raw.githubusercontent.com/neu-pdi/cs2000-public-resources/refs/heads/main/static/","cs2000.arr")
 
-((20 * 8) / 100) + 90
+string-to-upper("hello cs2000")
+circle(90, "solid", "red")
+rectangle(
