@@ -1,0 +1,3 @@
+use context url-file("https://raw.githubusercontent.com/neu-pdi/cs2000-public-resources/refs/heads/main/static/","cs2000.arr")
+
+#This csv contains every nba player's statlines in the 2023-2024 season. questions:  Is there a relation between minutes played and ppg? I think there is a strong correlation, but not absolute as skill level and playstyle contribute to a player's ability to score the ball
